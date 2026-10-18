@@ -1,0 +1,10 @@
+*.md~
+*~
+*.bak
+.DS_Store
+Thumbs.db
+
+# Arduino build output
+build/
+*.hex
+*.elf

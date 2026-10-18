@@ -1,0 +1,16 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report File    : K:\Data\Documents\Arduino\Cylon_V4\Technical Schematic V4 Instant On (PCB - Transfer from Schematic to PCB.).txt
+Report Written : Saturday, February 25, 2012
+Design Path    : K:\Data\Documents\Arduino\Cylon_V4\Technical Schematic V4 Instant On.pcb
+Design Title   : 
+Created        : 25/02/2012 14:25:29
+Last Saved     : 25/02/2012 14:26:29
+Editing Time   : 1 min
+Units          : thou (precision 0)
+
+Could not load component "Current Controlled Switch" package "SPICE" into target design.
+Could not add "W1" component "Current Controlled Switch" package "SPICE" to target design.
+
+End Of Report.

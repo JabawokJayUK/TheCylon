@@ -1,0 +1,16 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report File    : C:\Users\jabbott\Documents\Arduino\Cylon_5_2\Technical Schematic V5.2 (PCB - Transfer from Schematic to PCB.).txt
+Report Written : Saturday, June 01, 2013
+Design Path    : C:\Users\jabbott\Documents\Arduino\Cylon_5_2\Technical Schematic V5.2.pcb
+Design Title   : 
+Created        : 01/06/2013 17:17:31
+Last Saved     : 01/06/2013 17:17:47
+Editing Time   : 0 min
+Units          : thou (precision 0)
+
+Could not load component "TLC5940" package "SMD" into target design.
+Could not add "U3" component "TLC5940" package "SMD" to target design.
+
+End Of Report.

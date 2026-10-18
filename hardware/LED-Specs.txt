@@ -1,0 +1,29 @@
+From Ebay:
+
+Source Material: 		AlGaInP !
+Emitting Colour: 		5mm 60° 5-Chips 0.5 Watt High Power Red LED
+LENS Type:Water			clear
+Luminous Intensity-MCD: 	Min: 70,000mcd Max: 90,000 mcd
+Reverse Voltage:		5.0 V
+DC Forward Voltage: Typical: 	2.0 V Max: 2.4V
+DC Forward Current:		100mA
+Viewing Angle:			60 degree
+Lead Soldering Temp:		260°C for 5 seconds
+Intensely Bright
+
+
+From Rapid:
+
+Colour				Red
+Forward Current			50 mA
+Forward Voltage			2.2 V
+Height				8.7 mm
+Lens Type			Water Clear
+Luminous Intensity		20 cd
+Operating Temperature Range	-30°C to +80°C
+Peak Wavelength			625 nm
+Power Rating			110 mW
+Reverse Voltage			5 V
+Viewing Angle			15 °
+Width				5.8 mm
+Brand				TruOpto
