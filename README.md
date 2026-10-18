@@ -3,6 +3,14 @@
 A drop-in replacement for the high-level (third) brake light in the Alfa Romeo
 159 — and, with minor fettling, the Brera and 939 Spider.
 
+> **The project write-up, photographs and videos live at
+> [jabawoki.com/projects/the-cylon/](https://jabawoki.com/projects/the-cylon/).**
+> This repository holds the engineering files: firmware, schematics, PCB and
+> breadboard layouts. See also the
+> [gallery](https://jabawoki.com/projects/the-cylon/gallery/),
+> the [videos](https://jabawoki.com/projects/the-cylon/videos/) and
+> [is it legal?](https://jabawoki.com/projects/the-cylon/legality/).
+
 The factory unit is not an LED light at all. It is a row of filament bulbs on a
 common rail that clips into the back of the reflector housing. The Cylon
 replaces that bar with ten individually PWM-controlled high-power red LEDs
