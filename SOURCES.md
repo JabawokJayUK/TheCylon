@@ -34,15 +34,31 @@ from the original BlackBoard breadboard designs in the working folder.
 `docs/images/schematic-v2*.jpg`, `schematic-v3-softpwm.jpg` — renders from the
 working folder.
 
-**Not recovered:** the build photographs. Twenty-six images were referenced by
-the three 2012 blog posts and the project page — `DSCF1078`, `DSCF1081`,
-`DSCF1085`, `DSCF1094`, `DSCF1097`, `DSCF1099`, `DSCF1287`, `DSCF1295`,
-`DSCF1311`, `IMG_0053-2`, `IMG_0084`, `IMG_0087`, `IMG_0088`, `IMG_0096`,
-`IMG_6473`–`IMG_6482`. Only 150×150 thumbnails survive in the WordPress media
-export; the full-size originals are absent from the 2024 Amplify deploy, absent
-from the Wayback Machine (no snapshots exist for those URLs), and the ten 2012
-forum attachment IDs that carried them return 404 from the forum CDN. They
-appear to be genuinely lost unless an offline copy turns up.
+**Build photographs — recovered October 2026.** These were previously recorded
+here as lost. Twenty-two filenames were referenced by the three 2012 blog posts
+and the project page, and only 150×150 WordPress thumbnails survived the loss of
+the site database: the full-size originals were absent from the 2024 Amplify
+deploy, absent from the Wayback Machine, and the 2012 forum attachment IDs that
+carried them return 404 from the forum CDN.
+
+They were then found in Jay's own offline backup — 78 unique full-size camera
+originals from the build, 4608 × 3440 (Fujifilm) and 3456 × 2304 / 2592 × 1936
+(Canon), dated 2012-02-06 to 2012-04-10. Twenty-one of the twenty-two referenced
+filenames are among them.
+
+`IMG_0053-2` is the single exception and remains unrecovered; it is not in the
+backup under that name, and may have been a crop or edit made for the blog post
+rather than a camera original.
+
+The photographs are published on the project pages at
+[jabawoki.com/projects/the-cylon/](https://jabawoki.com/projects/the-cylon/) and
+its [gallery](https://jabawoki.com/projects/the-cylon/gallery/), resized to a
+1400 px long edge. The originals stay in Jay's backup rather than in this
+repository — this repo holds engineering files, not a photo archive.
+
+**The lesson, recorded because it cost a full recovery crawl:** "exhausted every
+online source" is not the same as "lost". Ask the author for an offline copy
+before writing anything off.
 
 ## Written material
 
